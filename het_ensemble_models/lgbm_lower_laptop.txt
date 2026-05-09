@@ -2294,7 +2294,7 @@ parameters:
 [num_iterations: 100]
 [learning_rate: 0.1]
 [num_leaves: 31]
-[num_threads: 96]
+[num_threads: 10]
 [seed: 42]
 [deterministic: 0]
 [force_col_wise: 0]
